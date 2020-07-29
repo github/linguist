@@ -5791,6 +5791,7 @@ Velocity Template Language:
   - ".vtl"
   - ".velocity"
   ace_mode: velocity
+  tm_scope: source.velocity
   codemirror_mode: velocity
   codemirror_mime_type: text/velocity
   language_id: 292377326
