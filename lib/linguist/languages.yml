@@ -5781,6 +5781,19 @@ Vala:
   tm_scope: source.vala
   ace_mode: vala
   language_id: 386
+Velocity Template Language:
+  type: markup
+  color: "#d0d0ff"
+  aliases:
+  - vtl
+  - velocity
+  extensions:
+  - ".vtl"
+  - ".velocity"
+  ace_mode: velocity
+  codemirror_mode: velocity
+  codemirror_mime_type: text/velocity
+  language_id: 292377326
 Verilog:
   type: programming
   color: "#b2b7f8"
