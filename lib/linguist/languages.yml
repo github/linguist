@@ -5783,7 +5783,7 @@ Vala:
   language_id: 386
 Velocity Template Language:
   type: markup
-  color: "#d0d0ff"
+  color: "#fe009d"
   aliases:
   - vtl
   - velocity
