@@ -901,6 +901,10 @@ vendor/grammars/vhdl:
 - source.vhdl
 vendor/grammars/vscode-codeql:
 - source.ql
+vendor/grammars/vscode-curry:
+- markdown.curry.codeblock
+- source.curry
+- source.icurry
 vendor/grammars/vscode-gcode-syntax:
 - source.gcode
 vendor/grammars/vscode-gedcom:

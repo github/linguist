@@ -100,6 +100,7 @@ This is a list of grammars that Linguist selects to provide syntax highlighting 
 - **Csound Document:** [nwhetsell/language-csound](https://github.com/nwhetsell/language-csound)
 - **Csound Score:** [nwhetsell/language-csound](https://github.com/nwhetsell/language-csound)
 - **Cuda:** [harrism/sublimetext-cuda-cpp](https://github.com/harrism/sublimetext-cuda-cpp)
+- **Curry:** [fwcd/vscode-curry](https://github.com/fwcd/vscode-curry)
 - **Cycript:** [atom/language-javascript](https://github.com/atom/language-javascript)
 - **Cython:** [textmate/cython.tmbundle](https://github.com/textmate/cython.tmbundle)
 - **D:** [textmate/d.tmbundle](https://github.com/textmate/d.tmbundle)

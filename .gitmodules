@@ -1045,6 +1045,9 @@
 	path = vendor/grammars/vscode-codeql
 	url = https://github.com/github/vscode-codeql
 	branch = main
+[submodule "vendor/grammars/vscode-curry"]
+	path = vendor/grammars/vscode-curry
+	url = https://github.com/fwcd/vscode-curry
 [submodule "vendor/grammars/vscode-gcode-syntax"]
 	path = vendor/grammars/vscode-gcode-syntax
 	url = https://github.com/appliedengdesign/vscode-gcode-syntax
