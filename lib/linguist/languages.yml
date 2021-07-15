@@ -2575,6 +2575,8 @@ JSON:
   codemirror_mime_type: application/json
   extensions:
   - ".json"
+  - ".4DForm"
+  - ".4DProject"
   - ".avsc"
   - ".geojson"
   - ".gltf"
@@ -6425,6 +6427,8 @@ XML:
   - wsdl
   extensions:
   - ".xml"
+  - ".4DCatalog"
+  - ".4DSettings"
   - ".adml"
   - ".admx"
   - ".ant"
