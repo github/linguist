@@ -550,6 +550,10 @@ disambiguations:
     pattern: '^\s*(?:use\s+v6\b|\bmodule\b|\bmy\s+class\b)'
   - language: Turing
     pattern: '^\s*%[ \t]+|^\s*var\s+\w+(\s*:\s*\w+)?\s*:=\s*\w+'
+- extensions: ['.tlv']
+  rules:
+    - language: TL-Verilog
+      pattern: '^\\.{0,10}TLV_version'
 - extensions: ['.toc']
   rules:
   - language: World of Warcraft Addon Data

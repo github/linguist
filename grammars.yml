@@ -906,6 +906,8 @@ vendor/grammars/textmate.tmbundle:
 - textmate.format-string
 vendor/grammars/thrift.tmbundle:
 - source.thrift
+vendor/grammars/tlv-vscode:
+- source.tlverilog
 vendor/grammars/toml.tmbundle:
 - source.toml
 vendor/grammars/turtle.tmbundle:
