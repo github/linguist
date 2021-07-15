@@ -310,6 +310,7 @@ This is a list of grammars that Linguist selects to provide syntax highlighting 
 - **Nu:** [jsallis/nu.tmbundle](https://github.com/jsallis/nu.tmbundle)
 - **Nunjucks:** [alohaas/language-nunjucks](https://github.com/alohaas/language-nunjucks)
 - **OCaml:** [textmate/ocaml.tmbundle](https://github.com/textmate/ocaml.tmbundle)
+- **Oberon:** [harogaston/Sublime-Modula-2](https://github.com/harogaston/Sublime-Modula-2)
 - **ObjDump:** [nanoant/assembly.tmbundle](https://github.com/nanoant/assembly.tmbundle)
 - **Object Data Instance Notation:** [Alhadis/language-etc](https://github.com/Alhadis/language-etc)
 - **ObjectScript:** [intersystems-community/ObjectScript.tmBundle](https://github.com/intersystems-community/ObjectScript.tmBundle)
