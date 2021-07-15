@@ -1465,6 +1465,17 @@ Eiffel:
   codemirror_mode: eiffel
   codemirror_mime_type: text/x-eiffel
   language_id: 99
+Electronic Data Interchange:
+  type: data
+  color: "#2b2288"
+  extensions:
+  - ".edi"
+  ace_mode: text
+  tm_scope: source.edi
+  aliases:
+  - x12
+  - edifact
+  language_id:
 Elixir:
   type: programming
   color: "#6e4a7e"

@@ -314,6 +314,8 @@ vendor/grammars/ecl-tmLanguage:
 - source.ecl
 vendor/grammars/eiffel.tmbundle:
 - source.eiffel
+vendor/grammars/edi-tmbundle:
+- source.edi
 vendor/grammars/ejs-tmbundle:
 - text.html.js
 vendor/grammars/elixir-tmbundle:
