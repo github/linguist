@@ -3670,6 +3670,13 @@ NWScript:
   codemirror_mode: clike
   codemirror_mime_type: text/x-csrc
   language_id: 731233819
+Nasal:
+  type: programming
+  extensions:
+  - ".nas"
+  tm_scope: none
+  ace_mode: text
+  language_id: 178322513
 Nearley:
   type: programming
   ace_mode: text
